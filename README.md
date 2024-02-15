@@ -7,5 +7,4 @@ This homework consisted of:
 3. Redirecting the default route at /profile
 4. Creating a GitHub Page
 
-This homework can be deployed with Flask on localhost and 
 This homework is available via the deployment using Flask or on the GitHub Page: https://d0nc0n.github.io/ITMO_WAD_HW_1/index.html
